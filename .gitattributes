@@ -1,0 +1,8 @@
+3_modeling/SASRec/*.pt filter=lfs diff=lfs merge=lfs -text
+3_modeling/T5/*.csv filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text
+1_crawling/asin/*.csv filter=lfs diff=lfs merge=lfs -text
+1_crawling/output/output-ver1/*.csv filter=lfs diff=lfs merge=lfs -text
+1_crawling/output/output-ver2/*.csv filter=lfs diff=lfs merge=lfs -text
+1_crawling/output/output-ver3/*.csv filter=lfs diff=lfs merge=lfs -text
+1_crawling/output/output-ver4/*.csv filter=lfs diff=lfs merge=lfs -text
